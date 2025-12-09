@@ -1,16 +1,25 @@
-# React + Vite
+🚀 Project: APEX Terminal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Role: Lead Frontend Engineer & UI Designer
+Stack: React, Tailwind CSS, Recharts, WebSockets
+Live Demo: [Insert Your Vercel Link Here]
 
-Currently, two official plugins are available:
+1. The Big Idea
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Financial tools are usually boring spreadsheets. I built APEX to look like a futuristic "Heads-Up Display" (HUD) from a sci-fi movie. It is a high-performance crypto trading dashboard that feels immersive and fast.
 
-## React Compiler
+2. Why It's "Billion Dollar" Quality
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It's Alive: This isn't fake data. I connected it to the Binance Live Feed. The numbers you see are real Bitcoin trades happening right now.
 
-## Expanding the ESLint configuration
+Holographic UI: I ditched standard buttons for a "Glass & Neon" aesthetic. Panels glow, backgrounds breathe, and everything feels projected on a screen.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Custom Engineering: I didn't just use standard charts. I wrote custom code to draw Japanese Candlesticks and Renko Blocks from scratch.
+
+3. The Tech Under the Hood
+
+Real-Time Engine: Uses WebSockets to handle thousands of price updates per second without crashing.
+
+Resilient Design: If the internet cuts out, it automatically switches to "Simulation Mode" so the app never looks broken.
+
+Performance: Optimized rendering ensures the charts flow smoothly at 60fps, even with live data streaming in.
